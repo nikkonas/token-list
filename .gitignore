@@ -10,3 +10,6 @@ src/**.js
 coverage
 package-lock.json
 .DS_Store
+raktas
+raktas.pub
+
